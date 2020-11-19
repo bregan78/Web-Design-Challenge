@@ -21,11 +21,15 @@ body {
 .rightbox{
     background-color: white;
     padding-top: 50px;
+    margin-top: 25px;
 }
 .leftbox{
     padding-top: 50px;
     background-color: white;
-    
+    margin-right: 25px;
+    margin-top: 25px;
 }
+
+
 
 
